@@ -12,7 +12,7 @@ Because it's impossible to code a design pattern on its own, for this exercise, 
 ### Discussion Questions:
 
 1. **What is an abstract class?**
-2. 
+ 
     - Provide an example of an abstract class and several subclasses that might inherit from it.
   
 3. **Describe a behavioral pattern that influences how React code is written.**
@@ -20,5 +20,5 @@ Because it's impossible to code a design pattern on its own, for this exercise, 
 4. **What is a Singleton and why might it be helpful?**
   
 5. **Throughout the program, our projects have gradually involved more and more files of smaller and smaller sizes.**
-6. 
+ 
     - What would you call this concept and why would you implement it?
